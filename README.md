@@ -33,7 +33,7 @@ Response:
 	-  { success: true, message: ‘successfully create order’ }
 -  400
 	- { success: false, message: ‘failed to create customer’ }    
-	- 
+
 Create order flow:
 1.  Create customer
 2.  Create orders
